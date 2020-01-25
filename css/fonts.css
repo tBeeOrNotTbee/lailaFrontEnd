@@ -1,10 +1,10 @@
 @font-face {
-    font-family: think-pink;
-    src: url(../fonts/think-Pink-Regular.ttf);
+    font-family: smooth-stone;
+    src: url(../fonts/smoothStone-Regular.ttf);
 }
 
-.think-pink{
-    font-family: think-pink!important;
+.smooth-stone{
+    font-family: smooth-stone!important;
 }
 
 @font-face{
