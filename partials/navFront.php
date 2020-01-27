@@ -1,11 +1,11 @@
  <!-- Header -->
  <header class="br_header-sidebar">
      <div class="side-header-inner">
-         <div class="header-wrap">
-             <div class="header-top">
+         <div class="header-wrap nav d-flex align-items-center justify-content-between align-content-md-around">
+             <div class="header-top order-2 order-md-1">
                  <div class="branding">
-                     <a href="index.html">
-                         <img src="../img/logo.svg" alt="logo images">
+                     <a href="../index.php" class="logo-res">
+                         <img src="../img/logo.png" class="img-fluid" alt="logo">
                      </a>
                  </div>
                  <!-- Start MEnu -->
@@ -16,7 +16,7 @@
                  </div>
                  <!-- End MEnu -->
              </div>
-             <div class="header-center align-items-end">
+             <div class="header-center align-items-end order-3 order-md-3 d-none d-md-flex">
                  <div class="header-social-neworks">
                      <div class="inner">
                          <!-- REDES SOCIALES -->
@@ -26,7 +26,7 @@
                      </div>
                  </div>
              </div>
-             <div class="header-bottom">
+             <div class="header-bottom order-1 order-md-2">
                  <!-- <div class="popup-search-wrap pr_lg--30 pr_md--30 pr_sm--30">
                      <a class="btn-search-click" href="#">
                          <i class="fa fa-search"></i>
@@ -39,6 +39,19 @@
                      </div>
                  </div>
                  <!-- End Hamberger -->
+             </div>
+             <div class="tool-bar-res d-md-none order-4">
+                 <div class="inner">
+                     <a class="quick-option hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Login">
+                         <i class="fas fa-user camel"></i>
+                     </a>
+                     <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Shopcar">
+                         <i class="fas fa-shopping-bag camel"></i>
+                     </a>
+                     <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="My favourites">
+                         <i class="fas fa-heart rosa"></i>
+                     </a>
+                 </div>
              </div>
          </div>
      </div>

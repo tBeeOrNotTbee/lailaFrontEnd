@@ -1,5 +1,5 @@
 <!-- Start Toolbar -->
-<div class="demo-option-container">
+<div class="demo-option-container d-none d-md-flex">
     <!-- Start Toolbar -->
     <div class="brook__toolbar">
         <div class="inner">

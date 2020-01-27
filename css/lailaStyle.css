@@ -32,6 +32,11 @@ body {
   margin-top: 6rem!important;
 }
 
+.bk-cover{
+  background-size: cover;
+  background-position: center;
+}
+
 .camel {
   color: #ecb966;
 }
@@ -94,7 +99,24 @@ body {
   font-size: 1.5em;
 }
 
-/* NAV */
+.tool-bar-res .inner a i {
+  font-size: 1em;
+}
+
+@media (max-width: 740px) {
+  .nav{
+    max-height: 11vh;
+  }
+
+  .logo-res{
+    max-height: 9.5vh;
+  }
+
+  .logo-res img{
+    max-height: 9.5vh;
+  }
+}
+
 /*   CONTENEDOR MAIN   */
 .main-content {
   /* width: 95% !important; */
@@ -142,14 +164,26 @@ body {
 /* FIN MEDIA QUERYS PARA CARUSEL */
 
 .hastag {
-  font-size: 5em;
   color: #edba66;
+  font-size: 2.5em;
 }
 
-.slogan {
-  margin: 10vh;
-  font-size: 1em;
+.slogan{
+  font-size: 0.7em;
 }
+
+/*   MEDIA QUERYS PARA HASTAG   */
+@media (min-width: 740px) {
+  .hastag{
+    font-size: 5em;
+  }
+
+  .slogan{
+    font-size: 1em;
+  }
+}
+
+/* FIN MEDIA QUERYS PARA HASTAG */
 
 .advert {
   /* margin: 0 !important; */
@@ -177,7 +211,6 @@ body {
 /*  CATALOG  */
 .row-catalog {
   max-width: 70%;
-  display: flex;
   justify-content: space-between;
   margin: 20px 15%;
 }
@@ -231,11 +264,6 @@ body {
 /* FIN CATALOGO */
 
 /* HISTORIA */
-.history {
-  margin: 15vh 0;
-  margin-top: 25vh !important;
-}
-
 .story-text {
   display: flex;
   flex-direction: column;
@@ -256,8 +284,8 @@ body {
 
 .history h2 span {
   font-family: playfair-black-italic;
-  font-weight: bolder;
-  font-style: italic;
+  /* font-weight: bolder; */
+  /* font-style: italic; */
 }
 
 .history p {
@@ -297,9 +325,7 @@ body {
 }
 
 .insta-title {
-  width: 100%;
   margin-bottom: 1em;
-  margin-top: 25vh !important;
 }
 
 .insta-title div {
@@ -308,7 +334,6 @@ body {
 
 .insta-title h3 {
   font-size: 3em;
-  font-weight: bold;
 }
 
 .follow-us .insta-ico {
@@ -348,18 +373,21 @@ footer :nth-child(2n) {
   align-items: flex-end;
 }
 
-.footer-links {
-  width: 100%;
-  padding: 0 5%;
-  /* display: flex;
-  justify-content: space-around;
-  align-items: flex-end;
-  align-content: space-around; */
+.footer-link {
+  font-weight: bold;
+  font-size: 0.7em;
+  text-transform: uppercase;
+  padding: 0 3em;
 }
 
-.footer-link {
-  /* color: rgb(184, 141, 0); */
-  font-size: 0.8em;
+#footer-links a:not(:last-child) {
+  border-right: 2px solid #d18783;
+}
+
+@media (max-width: 740px) {
+  #footer-links a:not(:last-child) {
+    border-right: none;
+  }
 }
 
 .footer-link:hover {
@@ -369,7 +397,7 @@ footer :nth-child(2n) {
 .footer-info {
   margin-top: 2vh;
   background-color: rgb(241, 217, 138);
-  height: 30vh;
+  min-height: 30vh;
 }
 
 .footer-info h2 {
