@@ -5,7 +5,7 @@
              <div class="header-top">
                  <div class="branding">
                      <a href="index.html">
-                         <img src="img/logo.svg" alt="logo images">
+                         <img src="../img/logo.svg" alt="logo images">
                      </a>
                  </div>
                  <!-- Start MEnu -->
@@ -591,7 +591,7 @@
          <div class="mobileheader">
              <div class="logo">
                  <a href="index.html">
-                     <img src="img/logo1.png" alt="Multipurpose">
+                     <img src="../img/logo.svg" alt="Multipurpose">
                  </a>
              </div>
              <a class="mobile-close" href="#"></a>
