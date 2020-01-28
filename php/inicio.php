@@ -20,11 +20,13 @@
     <!-- MAIN CONTENT -->
     <main class="page-content ml--100 ml_lg--0 ml_md--0 ml_sm--0">
         <!-- Contenido Principal -->
-        <div class="container-fluid">
-            <div id="wrapper" class="wrapper">
+        <div id="wrapper" class="wrapper">
+            <div class="container-fluid">
+                
                 <?php require_once('../partials/navFront.php'); ?>
 
                 <?php require_once('../partials/toolbarFront.php'); ?>
+
                 <?php require_once('../partials/advert.php'); ?>
 
                 <div class="row">

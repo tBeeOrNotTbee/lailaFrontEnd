@@ -4,6 +4,12 @@ body {
   /* overflow-x: hidden; */
 }
 
+@media (max-width: 740px) {
+  body{
+    overflow-x: hidden;
+  }
+}
+
 .noPad {
   padding: 0 !important;
 }
