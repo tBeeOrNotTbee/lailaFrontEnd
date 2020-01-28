@@ -27,7 +27,9 @@ body {
 .w100 {
   width: 100% !important;
 }
-
+.w80{
+  width: 80% !important;
+}
 .mt-7 {
   margin-top: 6rem!important;
 }

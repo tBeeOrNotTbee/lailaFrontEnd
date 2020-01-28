@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/brook.css">
     <link rel="stylesheet" href="../css/lailaStyle.css">
-    <title>Lila Frank</title>
+    <title>Laila Frank</title>
 </head>
 
 <body>
