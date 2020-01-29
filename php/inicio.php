@@ -50,7 +50,7 @@
                 <div class="row mt-7">
                     <div class=" col-12 text-center">
                         <h2 class="hastag smooth-stone">#shoesforunconventionalwomen</h2>
-                        <p class="monserrat mt-5 grey slogan">Creemos que las mujeres merecen tener el calzado que <br>
+                        <p class="monserrat mt-2 grey slogan">Creemos que las mujeres merecen tener el calzado que <br>
                             desean cuando lo desean, no importa que talla sean.</p>
                     </div>
                 </div>
