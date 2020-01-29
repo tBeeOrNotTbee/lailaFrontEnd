@@ -514,3 +514,17 @@ footer :nth-child(2n) {
 }
 
 /* FIN SHOP  */
+
+/* CONTACTO CSS */
+#contacto-titulo{
+  font-size: 4em;
+}
+
+.contacto-subtitulo{
+  font-size: 1.5em;
+  color: #57a89c;
+}
+.contacto-color{
+  color: #57a89c;
+}
+/* FIN CONTACTO */

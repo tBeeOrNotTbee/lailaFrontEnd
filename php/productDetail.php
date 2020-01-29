@@ -47,7 +47,7 @@
 
         <div class="row">
 
-            <?php require_once('../partials/nav.php'); ?>
+            <?php require_once('../partials/navFront.php'); ?>
 
             <div class="offset-1 col-11 main-content noPad">
                 <div class="container-fluid">
