@@ -1,12 +1,14 @@
 html,
 body {
-  max-width: 100%;
+  max-width: 100vw!important;
+  box-sizing: content-box;
   /* overflow-x: hidden; */
 }
 
 @media (max-width: 740px) {
   body {
-    overflow-x: hidden;
+    /* max-width: 100vw;
+    overflow-x: hidden!important; */
   }
 }
 
@@ -216,7 +218,7 @@ body {
 
 .advert {
   /* margin: 0 !important; */
-  height: 5vh;
+  min-height: 5vh;
   background-color: #231f20;
   color: white;
   text-transform: uppercase;

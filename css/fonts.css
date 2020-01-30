@@ -7,6 +7,16 @@
     font-family: smooth-stone!important;
 }
 
+@font-face {
+    font-family: times;
+    src: url(../fonts/times-bold.ttf);
+}
+
+.times{
+    font-family: times!important;
+}
+
+
 @font-face{
     font-family: monserrat;
     src: url(../fonts/montserrat-regular-webfont.ttf)

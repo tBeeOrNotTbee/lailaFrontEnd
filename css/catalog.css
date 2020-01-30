@@ -7,14 +7,14 @@
 }
 
 .catalog-sub {
-    box-sizing: content-box;
-    margin: 3vh 25% 1.5vh;
+    box-sizing: content-box !important;
     display: block;
+    margin: 0 auto;
     font-size: 1.5em;
 }
 
 .catalog-sub span {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .img-catalog {
@@ -54,6 +54,25 @@
 
 .see-more {
     margin: 10vh auto;
+}
+
+.shoe-img-preview {
+    /* width: 130px;
+    height: 195px; */
+    position: relative;
+    display: inline-block;
+}
+
+.shoe-img-preview .img-top {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    transition: all 1s linear!important;
+}
+.shoe-img-preview:hover .img-top {
+    opacity: 1;
 }
 
 /* PRODUCT DETAIL */
