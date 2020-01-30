@@ -84,6 +84,14 @@ body {
   color: #4d4d4f;
 }
 
+.cero7em {
+  font-size: 0.7em!important;
+}
+
+.cero8em {
+  font-size: 0.8em!important;
+}
+
 .input-line {
   display: inline-block;
   -webkit-box-sizing: content-box;
@@ -492,6 +500,10 @@ footer :nth-child(2n) {
   background-color: #f8f8f8;
 }
 
+.shop-bk2 {
+  background-color: #efefef;
+}
+
 .shop-title {
   text-transform: uppercase;
   font-size: 1em;
@@ -515,6 +527,9 @@ footer :nth-child(2n) {
   color: #231f20;
 }
 
+.shop-border{
+  box-shadow: inset 0 0 0 5px #f8f8f8;
+}
 /* FIN SHOP  */
 
 /* CONTACTO CSS */

@@ -14,7 +14,7 @@
                          <i></i>
                      </div>
                  </div>
-                 <!-- End MEnu -->
+                 <!-- End Menu -->
              </div>
              <div class="header-center align-items-end order-3 order-md-3 d-none d-md-flex">
                  <div class="header-social-neworks">
