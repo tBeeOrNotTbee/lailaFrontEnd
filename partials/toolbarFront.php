@@ -6,10 +6,10 @@
             <a class="quick-option hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Login">
                 <i class="fas fa-user camel"></i>
             </a>
-            <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Shopcar">
+            <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Shopcart">
                 <i class="fas fa-shopping-bag camel"></i>
             </a>
-            <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="My favourites">
+            <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="My favorites">
                 <i class="fas fa-heart rosa"></i>
             </a>
         </div>
