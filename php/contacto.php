@@ -77,7 +77,10 @@
                     <div class="form-row col-lg-12">
                       <div class="form-group col-12 col-md-6">
                         <label for="tema">Elegí tu tema</label>
-                        <input type="text" class="form-control" id="tema">
+                        <select id="compraOnline" class="form-control custom-select">
+                          <option>Compra online</option>
+                          <option>...</option>
+                        </select>
                       </div>
                       <div class="form-group col-12 col-md-6">
                         <label for="estadoPedido">Tipo de consulta</label>
@@ -88,12 +91,12 @@
                       </div>
                     </div>
 
-                    <div class="form-row col-lg-12 ">
+                    <div class="form-row col-lg-12 p-2">
                       <label for="exampleFormControlTextarea1">Mensaje</label>
                       <textarea class="form-control" id="areaMensaje" rows="10"></textarea>
                     </div>
-                    <div class="form-row col-8 mx-auto">
-                      <button type="submit" class="btn btn-primary">ENVIAR</button>
+                    <div class="form-row col-12 mx-auto mt-5">
+                      <button type="submit" class="button-story w100">ENVIAR</button>
                     </div>
                   </form>
 

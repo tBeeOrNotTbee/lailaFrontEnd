@@ -530,3 +530,68 @@ footer :nth-child(2n) {
   color: #57a89c;
 }
 /* FIN CONTACTO */
+
+/* CATALOG ITEM */
+
+.font4em{
+  font-size:4em;
+
+}
+.font2.5em{
+  font-size: 2.5em;
+}
+#grilla{
+  box-sizing: border-box;
+}
+@media (max-width: 740px){
+  h3#precio{
+    text-align: center;
+  }
+}
+h3#botonCompra{
+  text-align: center;
+  box-sizing: content-box;
+  display: block;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  background-color: #86dccf;
+  border: 2px solid #d18783;
+  padding: 10px 20px;
+  font-size: 0.8em;
+  font-weight: bold;
+  transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+}
+h3#botonTalles{
+  /* text-align: center; */
+  box-sizing: content-box;
+  display: block;
+  text-decoration: none;
+  color: #4d4d4f;
+  text-transform: uppercase;
+  border: 2px solid #4d4d4f;
+  padding: 10px 2em;
+  font-size: 0.8em;
+  font-weight: bold;
+  transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+}
+@media (max-width: 740px){
+  h3#modelo{
+    text-align: center;
+  }
+}
+/* FIN CATALOG ITEM */
+
+/* Historia */
+#historiaTitulo{
+  font-size: 2.5em;
+}
+#sloganHistoria{
+  font-size: 2.5em;
+
+}
+.history-fontcolor{
+  color: #a3a3a3;
+}
