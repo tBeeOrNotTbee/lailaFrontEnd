@@ -84,6 +84,10 @@ body {
   color: #4d4d4f;
 }
 
+.unoem {
+  font-size: 1em!important;
+}
+
 .cero7em {
   font-size: 0.7em!important;
 }
@@ -544,6 +548,28 @@ footer :nth-child(2n) {
 .contacto-color{
   color: #57a89c;
 }
+
+.contacto-ico{
+  font-size: 2.5em;
+}
+
+.contacto-ico:after {
+  content : "";
+  position: absolute;
+  left    : 0;
+  bottom  : 30%;
+  height  : 40%;
+  width   : 30%;  /* or 100px */
+  border-right: 1px solid #57a89c;
+}
+
+@media (max-width: 740px){
+  .contacto-ico:after {
+    width   : 40%;
+  }
+}
+
+
 /* FIN CONTACTO */
 
 /* CATALOG ITEM */

@@ -33,52 +33,52 @@
         <div class="container mb-5 mt-5">
           <div class="d-flex justify-content-center">
 
-          <div class="col-md-4">
-            <div class="text-center">
+            <div class="col-md-4">
+              <div class="text-center">
 
-              <div class="form-group">
-                <a href="inicio.php"> <img src="../img/logo.png" alt=""> </a>
-              </div>
+                <div class="d-none d-md-block col-12 mb-4">
+                  <img src="../img/logo_shop.png" alt="">
+                </div>
 
-              <div class=""> Creá tu cuenta </div>
+                <div class="mb-2 monserrat font-weight-bold cero8em"> Creá tu cuenta</div>
 
-              <div class="mb-2">
-                <button class="btn btn-outline-dark rounded-0 pl-5 pr-5" type="button" name="button">INGRESÁ CON TU EMAIL</button>
-              </div>
+                <div class="mb-2">
+                  <button class="btn btn-outline-dark rounded-0 pl-5 pr-5 cero7em" type="button" name="button"> <i class="far fa-envelope"></i> INGRESÁ CON TU EMAIL</button>
+                </div>
 
-              <div class="card p-4 align-center">
-                <form>
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Email">
-                  </div>
+                <div class="card p-4 align-center">
+                  <form>
+                    <div class="form-group">
+                      <input type="email" class="form-control" placeholder="Email">
+                    </div>
 
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Nombre">
-                  </div>
+                    <div class="form-group">
+                      <input type="email" class="form-control" placeholder="Nombre">
+                    </div>
 
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Apellido">
-                  </div>
+                    <div class="form-group">
+                      <input type="email" class="form-control" placeholder="Apellido">
+                    </div>
 
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="DNI">
-                  </div>
+                    <div class="form-group">
+                      <input type="email" class="form-control" placeholder="DNI">
+                    </div>
 
-                  <div class="form-group">
-                    <input type="email" class="form-control" placeholder="Contraseña">
-                  </div>
+                    <div class="form-group">
+                      <input type="email" class="form-control" placeholder="Contraseña">
+                    </div>
 
-                  <button type="submit" class="btn button-story">Ingresar</button>
+                    <button type="submit" class="btn button-story rounded-0">Ingresar</button>
 
-                  <div class="">
-                    <h6> >VOLVER </h6>
-                  </div>
+                    <div class="w100 d-flex justify-content-end">
+                      <span class="mt-3 shop-link"><a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> volver</a></span>
+                    </div>
 
-                </form>
+                  </form>
+                </div>
               </div>
             </div>
           </div>
-        </div>
         </div>
 
 
@@ -98,23 +98,23 @@
   <script src="../js/jquery.instagramFeed.min.js"></script>
 
   <script type="text/javascript">
-  (function($) {
-    $(window).on('load', function() {
-      $.instagramFeed({
-        'username': 'lailafrankshoes',
-        'container': ".insta-feed",
-        'display_profile': false,
-        'display_biography': false,
-        'display_gallery': true,
-        'get_raw_json': false,
-        'callback': null,
-        'styling': true,
-        'items': 6,
-        'items_per_row': 6,
-        'margin': 0
+    (function($) {
+      $(window).on('load', function() {
+        $.instagramFeed({
+          'username': 'lailafrankshoes',
+          'container': ".insta-feed",
+          'display_profile': false,
+          'display_biography': false,
+          'display_gallery': true,
+          'get_raw_json': false,
+          'callback': null,
+          'styling': true,
+          'items': 6,
+          'items_per_row': 6,
+          'margin': 0
+        });
       });
-    });
-  })(jQuery);
+    })(jQuery);
   </script>
 </body>
 
