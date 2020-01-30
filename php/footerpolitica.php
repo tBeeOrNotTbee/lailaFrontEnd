@@ -35,7 +35,7 @@
                   </div>
                   <?php require_once('../partials/navfooter.php'); ?>
                   <div class="col-12 col-md-7 py-4">
-                    <p class="grey monserrat">
+                    <p class="grey monserrat p-2">
                     	<b class="black">Los productos adquiridos en la página web cuentan con 7 días de garantía. </b> <br><br>
                     	La garantía será resuelta dentro de los 15 días hábiles siguientes a la recepción del producto en la dirección indicada al cliente. <br>
                     	El producto debe ser entregado en perfectas condiciones de limpieza. <br>
