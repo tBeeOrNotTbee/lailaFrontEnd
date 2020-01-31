@@ -25,7 +25,6 @@
         <main class="page-content ml--100 ml_lg--0 ml_md--0 ml_sm--0">
             <!-- Contenido Principal -->
             <div class="container-fluid">
-                <?php require_once('../partials/advert.php'); ?>
 
 
                 <!-- CONTENIDO PRINCIPAL -->

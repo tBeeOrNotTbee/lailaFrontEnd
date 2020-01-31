@@ -40,7 +40,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -91,7 +91,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -113,7 +113,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -135,7 +135,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -171,7 +171,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -193,7 +193,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -215,7 +215,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -237,7 +237,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -260,7 +260,7 @@
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">

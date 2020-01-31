@@ -62,7 +62,7 @@
                                     <td class=" d-none d-md-block">Flor Bonavera</td>
                                     <td>$5650.00</td>
                                     <td class="text-italic d-none d-md-block">Entregado</td>
-                                    <td><span class="mt-3 shop-link"><a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> ver</a></span></td>
+                                    <td><span class="mt-3 shop-link"><a href="shopDetalleCompra.php" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> ver</a></span></td>
                                 </tr>
                                 <tr>
                                     <th scope="row">5800284197</th>
@@ -70,7 +70,7 @@
                                     <td class=" d-none d-md-block">Flor Bonavera</td>
                                     <td>$2680.00</td>
                                     <td class="text-italic d-none d-md-block">Entregado</td>
-                                    <td><span class="mt-3 shop-link"><a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> ver</a></span></td>
+                                    <td><span class="mt-3 shop-link"><a href="shopDetalleCompra.php" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> ver</a></span></td>
                                 </tr>
                             </tbody>
                         </table>

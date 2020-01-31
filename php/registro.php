@@ -25,8 +25,6 @@
     <main class="page-content ml--100 ml_lg--0 ml_md--0 ml_sm--0">
       <!-- Contenido Principal -->
       <div class="container-fluid">
-        <?php require_once('../partials/advert.php'); ?>
-
 
         <!-- CONTENIDO PRINCIPAL -->
 
@@ -43,11 +41,11 @@
                 <div class="mb-2 monserrat font-weight-bold cero8em"> Creá tu cuenta</div>
 
                 <div class="mb-2">
-                  <button class="btn btn-outline-dark rounded-0 pl-5 pr-5 cero7em" type="button" name="button"> <i class="far fa-envelope"></i> INGRESÁ CON TU EMAIL</button>
+                  <a class="btn btn-outline-dark rounded-0 pl-5 pr-5 cero7em" type="button" name="button" href="login.php"> <i class="far fa-envelope"></i> INGRESÁ CON TU EMAIL</a>
                 </div>
 
                 <div class="card p-4 align-center">
-                  <form>
+                  <form action="shopMiCuenta.php">
                     <div class="form-group">
                       <input type="email" class="form-control" placeholder="Email">
                     </div>

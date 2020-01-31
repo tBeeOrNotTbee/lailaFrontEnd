@@ -52,7 +52,7 @@
                                             <hr class="w100">
                                             <div class="w-100 d-flex justify-content-between">
                                                 <a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em">> Cambiar contraseña</a>
-                                                <a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
+                                                <a href="shopEditarCuenta.php" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
                                             </div>
                                         </div>
                                     </div>
@@ -65,7 +65,7 @@
                                             <p class="card-text monserrat shop-card-text grey2 cero8em">No esta suscripto al boletín</p>
                                             <hr class="w100">
                                             <div class="w-100 d-flex flex-row-reverse">
-                                                <a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
+                                                <a href="shopNewsletter.php" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
                                             </div>
                                         </div>
                                     </div>
@@ -82,7 +82,7 @@
                                             <p class="card-text monserrat shop-card-text grey2 cero8em">No ha establecido una dirección de facturación predeterminada todavía</p>
                                             <hr class="w100">
                                             <div class="w-100 d-flex flex-row-reverse">
-                                                <a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
+                                                <a href="shopMisDirecciones.php" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
                                             </div>
                                         </div>
                                     </div>
@@ -95,7 +95,7 @@
                                             <p class="card-text monserrat shop-card-text grey2 cero8em">No ha establecido una dirección de envío predeterminada todavía</p>
                                             <hr class="w100">
                                             <div class="w-100 d-flex flex-row-reverse">
-                                                <a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
+                                                <a href="shopMisDirecciones.php" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
                                             </div>
                                         </div>
                                     </div>

@@ -76,6 +76,19 @@ body {
   color: black !important;
 }
 
+.white{
+  color: white!important;
+}
+
+.red{
+  color: red!important;
+}
+
+.red:hover{
+  color: red!important;
+  font-weight: bold;
+}
+
 .grey {
   color: #6d6e71 !important;
 }

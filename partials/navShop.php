@@ -13,13 +13,13 @@
                 <div class="card-body">
 
                     <ul class="list-group list-group-flush shop-links">
-                        <li class="list-group-item shop-bk"><a href="#" class="grey shop-link-active">Mi cuenta</a></li>
-                        <li class="list-group-item shop-bk"><a href="#" class="grey">Editar cuenta</a></li>
-                        <li class="list-group-item shop-bk"><a href="#" class="grey">Mis direcciones</a></li>
-                        <li class="list-group-item shop-bk"><a href="#" class="grey">Mis compras</a></li>
-                        <li class="list-group-item shop-bk"><a href="#" class="grey">Mis favoritos</a></li>
-                        <li class="list-group-item shop-bk"><a href="#" class="grey">Newsletter</a></li>
-                        <li class="list-group-item shop-bk"><a href="#" class="grey">Cerrar sesion</a></li>
+                        <li class="list-group-item shop-bk"><a href="shopMiCuenta.php" class="grey shop-link-active">Mi cuenta</a></li>
+                        <li class="list-group-item shop-bk"><a href="shopEditarCuenta.php" class="grey">Editar cuenta</a></li>
+                        <li class="list-group-item shop-bk"><a href="shopMisDirecciones.php" class="grey">Mis direcciones</a></li>
+                        <li class="list-group-item shop-bk"><a href="shopCompras.php" class="grey">Mis compras</a></li>
+                        <li class="list-group-item shop-bk"><a href="shopMisFavoritos.php" class="grey">Mis favoritos</a></li>
+                        <li class="list-group-item shop-bk"><a href="shopNewsletter.php" class="grey">Newsletter</a></li>
+                        <li class="list-group-item shop-bk"><a href="../index.php" class="grey">Cerrar sesion</a></li>
                     </ul>
 
                 </div>
@@ -33,13 +33,13 @@
 <div class="d-none d-md-block col-md-3 shop-bk">
 
     <ul class="list-group list-group-flush shop-links shop-links-desk">
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey shop-link-active">Mi cuenta</a></li>
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey">Editar cuenta</a></li>
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey">Mis direcciones</a></li>
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey">Mis compras</a></li>
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey">Mis favoritos</a></li>
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey">Newsletter</a></li>
-        <li class="list-group-item border-0 p-1 noBk"><a href="#" class="grey">Cerrar sesion</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="shopMiCuenta.php" class="grey shop-link-active">Mi cuenta</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="shopEditarCuenta.php" class="grey">Editar cuenta</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="shopMisDirecciones.php" class="grey">Mis direcciones</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="shopCompras.php" class="grey">Mis compras</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="shopMisFavoritos.php" class="grey">Mis favoritos</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="shopNewsletter.php" class="grey">Newsletter</a></li>
+        <li class="list-group-item border-0 p-1 noBk"><a href="../index.php" class="grey">Cerrar sesion</a></li>
     </ul>
 
 </div>

@@ -42,13 +42,13 @@
              </div>
              <div class="tool-bar-res d-md-none order-4">
                  <div class="inner">
-                     <a class="quick-option hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Login">
+                     <a class="quick-option hint--bounce hint--left hint--black primary-color-hover-important" href="login.php" aria-label="Login">
                          <i class="fas fa-user camel"></i>
                      </a>
                      <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="Shopcar">
                          <i class="fas fa-shopping-bag camel"></i>
                      </a>
-                     <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="#" aria-label="My favourites">
+                     <a class="hint--bounce hint--left hint--black primary-color-hover-important" href="shopMisFavoritos.php" aria-label="My favourites">
                          <i class="fas fa-heart rosa"></i>
                      </a>
                  </div>
@@ -61,11 +61,39 @@
  <!-- Start Hamberger Menu -->
  <!-- MENU DESKTOP VERSION -->
  <div class="open-hamberger-wrapper d-none d-lg-block">
-     <div class="page-close light-version"></div>
 
-     
+     <div class="container-fluid">
+         <div class="row justify-content-center">
+             <div class="col-12 text-center">
+                 <a href="../index.php" class="logo-res my-3">
+                     <img src="../img/logo_blanco.png" class="img-fluid" alt="logo">
+                 </a>
 
- 
+                 <a class="roboto-condensed white newsletter-title" href="historia.php">
+                     <h4 class="py-3 mb-2 mt-5">HISTORIA</h4>
+                 </a>
+
+                 <a class="roboto-condensed white newsletter-title py-3 my-3" href="catalog.php">
+                     <h4 class="py-3 my-2">CATALOGO</h4>
+                 </a>
+
+                 <a class="roboto-condensed white newsletter-title py-3 my-3" href="contacto.php">
+                     <h4 class="py-3 my-2">CONTACTO</h4>
+                 </a>
+
+                 <a class="roboto-condensed white newsletter-title" href="#">
+                     <h4 class="py-3 mb-2 mt-2">
+                         <a href="#"><i class="fab fa-instagram white"></i></a>
+                         <a href="#"><i class="fab fa-facebook-f white mx-3"></i></a>
+                         <a href="#"><i class="fab fa-twitter white"></i></a>
+                     </h4>
+                 </a>
+             </div>
+             <div class="page-close light-version"></div>
+         </div>
+     </div>
+
+
 
 
  </div>
@@ -83,8 +111,26 @@
              </div>
              <a class="mobile-close" href="#"></a>
          </div>
-         <div class="menu-content">
-             
+         <div class="menu-content text-center">
+             <a class="roboto-condensed white newsletter-title" href="historia.php">
+                 <h5 class="py-3 mb-2 mt-5">HISTORIA</h5>
+             </a>
+
+             <a class="roboto-condensed white newsletter-title py-3 my-3" href="catalog.php">
+                 <h5 class="py-3 my-2">CATALOGO</h5>
+             </a>
+
+             <a class="roboto-condensed white newsletter-title py-3 my-3" href="contacto.php">
+                 <h5 class="py-3 my-2">CONTACTO</h5>
+             </a>
+
+             <a class="roboto-condensed white newsletter-title" href="#">
+                 <h6 class="py-3 mb-2 mt-2">
+                     <a href="#"><i class="fab fa-instagram white"></i></a>
+                     <a href="#"><i class="fab fa-facebook-f white mx-3"></i></a>
+                     <a href="#"><i class="fab fa-twitter white"></i></a>
+                 </h6>
+             </a>
          </div>
      </div>
  </div>

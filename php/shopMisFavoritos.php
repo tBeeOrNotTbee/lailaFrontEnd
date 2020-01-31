@@ -36,7 +36,7 @@
 
                 <!-- CONTENIDO PRINCIPAL -->
 
-                <div class="row">
+                <div class="row mb-5">
                     <?php require_once('../partials/navShop.php'); ?>
 
 
@@ -66,7 +66,7 @@
                                                 <div class="w100" style="background-color: blue"></div>
                                             </div>
                                         </div>
-                                        <button type="button" class="btn btn-link text-uppercase cero7em mt-2">x Eliminar</button>
+                                        <button type="button" class="btn btn-link text-uppercase cero7em mt-2 red">x Eliminar</button>
                                     </div>
 
 
@@ -93,7 +93,7 @@
                                                 <div class="w100" style="background-color: blue"></div>
                                             </div>
                                         </div>
-                                        <button type="button" class="btn btn-link text-uppercase cero7em mt-2">x Eliminar</button>
+                                        <button type="button" class="btn btn-link text-uppercase cero7em mt-2 red">x Eliminar</button>
                                     </div>
                                 </div>
 
