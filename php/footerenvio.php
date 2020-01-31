@@ -77,7 +77,7 @@
                   </tbody>
                 </table>
               </div>
-              <div class="col-12 table-responsive">
+              <div class="col-12 cero7em table-responsive">
                 <table class="table">
                   <thead class="thead-light">
                     <tr>
