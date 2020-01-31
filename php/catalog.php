@@ -35,7 +35,7 @@
                             <div class="col-12 col-md-8">
                                 <img class="img-fluid pl-4 pr-4" src="../img/say_hello.png" alt="Say hello to your new favourites">
                                 <div id="product2L1" class="card border-0 rounded-0 thumbnail-big">
-                                    <div class="img-catalog mt-4 mb-3"></div>
+                                    <div class="img-catalog mt-4 mb-3 bk-cover" style="background: url(../img/shoe-large.png)"></div>
                                     <div class="row d-flex justify-content-end" style="padding: 0 1.9rem;">
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
@@ -61,15 +61,15 @@
                                     <div class="p-3">
                                         <!-- THUMBNAIL CAROUSEL -->
                                         <div class="shoe-img-preview">
-                                            <img src="../img/shoe_1.jpg" class="img-fluid" alt="">
-                                            <img src="../img/shoe_2.jpg" class="img-top img-fluid" alt="">
+                                            <img src="../img/mocasinNegro.JPG" class="img-fluid" alt="">
+                                            <img src="../img/mocasinNegro1.JPG" class="img-top img-fluid" alt="">
                                         </div>
                                     </div>
                                     <div class="row d-flex justify-content-end" style="padding: 0 1.9rem;">
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>
                                     <div class="card-body text-center">
-                                        <h5 class="card-title roboto-light black thumbnail-title">Nombre Feliciana</h5>
+                                        <a class="card-title roboto-light black thumbnail-title" href="catalog-item.php">Nombre Feliciana</a>
                                         <p class="card-text roboto black thumbnail-price">$10.000</p>
                                         <div class="row d-flex justify-content-around">
                                             <div class="show-color">
@@ -255,7 +255,7 @@
                             <div class="col-12 col-md-8">
                                 <img class="img-fluid pl-4 pr-4" src="../img/must_have.png" alt="Must have">
                                 <div id="product2L1" class="card border-0 rounded-0 thumbnail-big">
-                                    <div class="img-catalog mt-4 mb-3"></div>
+                                    <div class="img-catalog mt-4 mb-3 bk-cover" style="background: url(../img/shoe-large1.png)"></div>
                                     <div class="row d-flex justify-content-end" style="padding: 0 1.9rem;">
                                         <i class="far fa-heart" style="margin-right: 0!important"></i>
                                     </div>

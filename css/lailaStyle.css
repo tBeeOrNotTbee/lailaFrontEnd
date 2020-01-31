@@ -60,8 +60,8 @@ body {
 }
 
 .bk-cover {
-  background-size: cover;
-  background-position: center;
+  background-size: cover!important;
+  background-position: center!important;
 }
 
 .camel {
@@ -348,7 +348,7 @@ body {
   box-sizing: content-box;
   display: inline-block;
   text-decoration: none;
-  color: white;
+  color: white!important;
   text-transform: uppercase;
   background-color: #86dccf;
   border: 2px solid #d18783;
@@ -621,7 +621,7 @@ h3#botonCompra{
   transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
 }
-h3#botonTalles{
+#botonTalles{
   /* text-align: center; */
   box-sizing: content-box;
   display: block;
@@ -635,8 +635,9 @@ h3#botonTalles{
   transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
 }
+
 @media (max-width: 740px){
-  h3#modelo{
+  #modelo{
     text-align: center;
   }
 }
