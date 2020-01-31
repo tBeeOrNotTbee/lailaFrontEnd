@@ -11249,8 +11249,12 @@ a {
     border-top-color: transparent !important; }
   a.hint--bottom.hint--white[aria-label]::before {
     border-bottom-color: #ffffff; }
+    .a-brook:hover {
+      color: rgba(255, 255, 255, 0.5); }
+     a:hover {
+    /* color: rgba(255, 255, 255, 0.5); */ }
   a:hover {
-    color: rgba(255, 255, 255, 0.5); }
+    /* color: rgba(255, 255, 255, 0.5); */ }
     a:hover.hint--top[class*=hint--]:after, a:hover.hint--top[class*=hint--]:before {
       visibility: visible;
       opacity: 1;

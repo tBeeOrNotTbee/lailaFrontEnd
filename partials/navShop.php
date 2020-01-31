@@ -13,13 +13,13 @@
                 <div class="card-body">
 
                     <ul class="list-group list-group-flush shop-links">
-                        <li class="list-group-item"><a href="#" class="grey shop-link-active">Mi cuenta</a></li>
-                        <li class="list-group-item"><a href="#" class="grey">Editar cuenta</a></li>
-                        <li class="list-group-item"><a href="#" class="grey">Mis direcciones</a></li>
-                        <li class="list-group-item"><a href="#" class="grey">Mis compras</a></li>
-                        <li class="list-group-item"><a href="#" class="grey">Mis favoritos</a></li>
-                        <li class="list-group-item"><a href="#" class="grey">Newsletter</a></li>
-                        <li class="list-group-item"><a href="#" class="grey">Cerrar sesion</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey shop-link-active">Mi cuenta</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey">Editar cuenta</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey">Mis direcciones</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey">Mis compras</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey">Mis favoritos</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey">Newsletter</a></li>
+                        <li class="list-group-item shop-bk"><a href="#" class="grey">Cerrar sesion</a></li>
                     </ul>
 
                 </div>

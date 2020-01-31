@@ -26,6 +26,12 @@
             <!-- Contenido Principal -->
             <div class="container-fluid">
 
+                <div class="row">
+                    <div class="d-none d-md-block col-12 m-4 text-center">
+                        <img src="../img/logo_shop.png" class="" alt="">
+                    </div>
+                </div>
+
 
 
                 <!-- CONTENIDO PRINCIPAL -->
@@ -33,7 +39,7 @@
                     <?php require_once('../partials/navShop.php'); ?>
 
 
-                    <div class="col-12 col-md-7 py-4">
+                    <div class="col-12 col-md-7 py-4 py-md-5">
                         <h2 class="monserrat-bold shop-title cero8em text-center text-md-left">Mis compras</h2>
                         <p class="monserrat grey2 cero8em text-center text-md-left">Si tenés dudas, comunicate con nosotros vía email a compras@lailafrank.com,
                             ó por teléfono a (011) 49179488</p>
@@ -71,7 +77,7 @@
                     </div>
                 </div>
 
-
+                <div class="w100 mt-7"></div>
 
                 <?php require_once('../partials/footer.php'); ?>
             </div>

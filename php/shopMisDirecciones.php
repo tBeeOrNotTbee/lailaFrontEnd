@@ -26,7 +26,11 @@
             <!-- Contenido Principal -->
             <div class="container-fluid">
 
-
+            <div class="row">
+                    <div class="d-none d-md-block col-12 m-4 text-center">
+                        <img src="../img/logo_shop.png" class="" alt="">
+                    </div>
+                </div>
 
                 <!-- CONTENIDO PRINCIPAL -->
                 <div class="row mt-7 mb-5">
@@ -44,10 +48,7 @@
                                             <p class="card-text monserrat shop-card-text grey2 cero7em my-0">Florencia Bonavera</p>
                                             <p class="card-text monserrat shop-card-text grey2 cero7em my-0">ARCHIRA 4896, PISO 1, OF 5.</p>
                                             <p class="card-text monserrat shop-card-text grey2 cero7em my-0">Ciudad Autónoma Buenos Aires, 1431</p>
-                                            <p class="card-text monserrat shop-card-text grey2 cero7em my-0">Argentina</p>
-                                            <p class="card-text monserrat shop-card-text grey2 cero7em my-0">T: 1550135428</p>
-                                            <hr class="w100">
-                                            <div class="w-100 d-flex justify-content-end">
+                                            <pv class="w-100 d-flex justify-content-end">
                                                 <a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em"><i class="fas fa-pencil-alt"></i> Editar</a>
                                             </div>
                                         </div>
@@ -75,7 +76,10 @@
                                     <span class="mt-3 shop-link"><a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> EDITAR DIRECCIONES</a></span>
                                 </div>
 
-                            </div>
+                            </div> class="card-text monserrat shop-card-text grey2 cero7em my-0">Argentina</p>
+                                            <p class="card-text monserrat shop-card-text grey2 cero7em my-0">T: 1550135428</p>
+                                            <hr class="w100">
+                                            <di
 
                         </div>
                     </div>

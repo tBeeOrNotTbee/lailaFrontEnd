@@ -26,7 +26,11 @@
             <!-- Contenido Principal -->
             <div class="container-fluid">
 
-
+                <div class="row">
+                    <div class="d-none d-md-block col-12 m-4 text-center">
+                        <img src="../img/logo_shop.png" class="" alt="">
+                    </div>
+                </div>
 
                 <!-- CONTENIDO PRINCIPAL -->
                 <div class="row mt-7 mb-5">
@@ -55,9 +59,9 @@
 
                                     <div class="w50 d-flex justify-content-between">
                                         <span class="mt-3 shop-link"><a href="#" class="shop-card-text monserrat text-uppercase grey2 cero7em" style="font-size: 0.8em">> volver</a></span>
-                                        <a href="#" class="button-story m-0">Guardar</a>                                        
+                                        <a href="#" class="button-story m-0">Guardar</a>
                                     </div>
-                                    
+
                                 </div>
 
                             </div>
