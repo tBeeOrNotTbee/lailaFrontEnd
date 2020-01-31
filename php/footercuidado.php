@@ -34,7 +34,7 @@
                     <h1>CUIDADO DEL CALZADO</h1>
                   </div>
                   <?php require_once('../partials/navfooter.php'); ?>
-                  <div class="col-12 col-md-7 py-4">
+                  <div class="col-12 col-md-7 py-4 cero7em">
                     <h2 class="monserrat black" >TIP 1</h2>
                     <p class="monserrat grey" >Si tus zapatos son nuevos úsalos poco a poco para que cojan la forma del pie y no te hagan rozaduras. No es recomendable usar el mismo par de zapatos todos los días, es necesario que respire, se airee y recupere la forma.</p>
                     <h2 class="monserrat black" >TIP 2</h2>

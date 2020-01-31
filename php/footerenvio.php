@@ -35,11 +35,11 @@
           </div>
           <?php require_once('../partials/navfooter.php'); ?>
           <div class="col-12 col-md-7 py-4">
-            <p class="monserrat grey"><b class="black">Todas las opciones de envío dentro de Argentina son sin cargo. </b> <br><br>
+            <p class="monserrat grey cero7em"><b class="black">Todas las opciones de envío dentro de Argentina son sin cargo. </b> <br><br>
               Los envíos al exterior superiores a IMPORTE  PRETENDIDO U$D (dólares estadounidenses) son sin cargo.
               En caso de haber solicitado un pedido por una compra inferior a ese importe, deberás comunicarte al ….TEL  O escribirnos al …..MAIL de lunes a viernes de HORARIO DE ATENCION para que se te cotice el envío y los cargos aduaneros</p> <br><br>
-              <p class="monserrat grey"> <b class="black">Detallamos debajo, opciones de envío:</b> </p>
-              <div class="col-12 table-responsive">
+              <p class="monserrat grey cero7em"> <b class="black">Detallamos debajo, opciones de envío:</b> </p>
+              <div class="col-12 table-responsive cero7em">
                 <table class="table">
                   <thead class="thead-light">
                     <tr>

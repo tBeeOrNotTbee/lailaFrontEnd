@@ -34,7 +34,7 @@
             <h1>OPCIONES DE PAGO</h1>
           </div>
           <?php require_once('../partials/navfooter.php'); ?>
-          <div class="col-12 col-md-7 py-4">
+          <div class="col-12 col-md-7 py-4 cero7em">
             <p class="monserrat grey">  <b class="black">Tarjetas de crédito:</b> <br><br>
 
               Visa: 1 cuota sin interés <br>

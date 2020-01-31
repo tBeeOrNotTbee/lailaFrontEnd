@@ -36,7 +36,7 @@
           <?php require_once('../partials/navfooter.php'); ?>
           <div class="col-12 col-md-7 py-4">
             <div class="accordion" id="accordionExample">
-              <div class="card">
+              <div class="card cero7em">
                 <div class="card-header" id="headingOne">
                   <h2 class="mb-0">
                     <button class="btn monserrat-bold" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -51,7 +51,7 @@
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card cero7em">
                 <div class="card-header" id="headingTwo">
                   <h2 class="mb-0">
                     <button class="btn  collapsed monserrat-bold" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
@@ -65,7 +65,7 @@
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card cero7em">
                 <div class="card-header" id="headingThree">
                   <h2 class="mb-0">
                     <button class="btn collapsed monserrat-bold" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -79,7 +79,7 @@
                   </div>
                 </div>
               </div>
-              <div class="card">
+              <div class="card cero7em">
                 <div class="card-header" id="headingFour">
                   <h2 class="mb-0">
                     <button class="btn collapsed monserrat-bold" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
