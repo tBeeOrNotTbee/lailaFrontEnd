@@ -65,13 +65,13 @@
                       <td>$ 0</td>
                     </tr>
                     <tr>
-                      <th scope="row">Retiro en sucural OCA</th>
-                      <td>5 a 7 días hábiles</td>
-                      <td>$ 0</td>
+                      <th scope="row">Envío Express a CABA</th>
+                      <td>...</td>
+                      <td>A confirmar</td>
                     </tr>
                     <tr>
-                      <th scope="row">Retiro en Showroom</th>
-                      <td>5 a 7 días hábiles</td>
+                      <th scope="row">Retiro en Tienda en CABA*</th>
+                      <td></td>
                       <td>$ 0</td>
                     </tr>
                   </tbody>
@@ -88,28 +88,35 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <th class="monserrat" scope="row">Envío simple a domicilio en Capital Federal</th>
-                      <td class="monserrat">5 a 7 días hábiles</td>
-                      <td class="monserrat">$ 0</td>
+                      <th class="monserrat" scope="row">Países limítrofes</th>
+                      <td class="monserrat">24 a 48 hs</td>
+                      <td class="monserrat">$ 0**</td>
                     </tr>
                     <tr>
-                      <th scope="row">Envío simple a domicilio en Prov. de Bs. As.</th>
-                      <td>5 a 7 días hábiles</td>
-                      <td>$ 0</td>
+                      <th scope="row">EEUU y Canadá</th>
+                      <td>24 a 48 hs</td>
+                      <td>$ 0**</td>
                     </tr>
                     <tr>
-                      <th scope="row">Envío simple a domicilio interior del país</th>
-                      <td>5 a 7 días hábiles</td>
-                      <td>$ 0</td>
+                      <th scope="row">Resto de América</th>
+                      <td>48 a 72 hs</td>
+                      <td>$ 0** </td>
                     </tr>
                     <tr>
-                      <th scope="row">Retiro en sucural OCA</th>
-                      <td>5 a 7 días hábiles</td>
-                      <td>$ 0</td>
+                      <th scope="row">Europa</th>
+                      <td>72 a 96 hs</td>
+                      <td>$ 0** </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Asia y Resto del mundo</th>
+                      <td>96 a 120 hs</td>
+                      <td>$ 0** </td>
                     </tr>
                   </tbody>
                 </table>
               </div>
+              <p class="monserrat black cero7em">* Al momento de retiro por la Tienda, se solicitará la tarjeta con la que se abonó dicha compra y  el DNI del titular de la misma</p>
+              <p class="monserrat black cero7em">** Para compras superiores a $USD ...</p>
             </div>
             <div class="col-12 d-md-none">
               <div class="row justify-content-center" style="clear:both">
